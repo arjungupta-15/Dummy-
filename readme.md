@@ -1,6 +1,6 @@
-# 🎓 Assignment Hero - MERN Stack Application
+# 🎓 A MERN Stack Application
 
-Assignment Hero is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application deployed on AWS infrastructure with high availability and load balancing. The project demonstrates enterprise-level deployment practices using EC2 instances, MongoDB Atlas, Nginx, and AWS Load Balancers.
+ full-stack MERN (MongoDB, Express.js, React.js, Node.js) application deployed on AWS infrastructure with high availability and load balancing. The project demonstrates enterprise-level deployment practices using EC2 instances, MongoDB Atlas, Nginx, and AWS Load Balancers.
 
 ## 🏗️ Architecture Overview
 
